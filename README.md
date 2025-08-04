@@ -21,19 +21,6 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 
 ![技术栈](https://ksmlc.cn/images/icon/skillPc.svg)
 
-## 🔗 个人项目与站点
-
-| 项目名称              | 链接地址                                       |
-| --------------------- | ---------------------------------------------- |
-| KS-MLC\|资源导航      | [z.ksmlc.cn](https://z.ksmlc.cn/)              |
-| KS-MLC\|Blog          | [blog.ksmlc.cn](https://blog.ksmlc.cn/)        |
-| KS-MLC\|Alist         | [alist.ksmlc.cn](https://alist.ksmlc.cn/)      |
-| KS-MLC\|演示站        | [demo.ksmlc.cn](https://demo.ksmlc.cn/)        |
-| Typora-KeepStyle      | [直达链接](https://z.ksmlc.cn/?c=click&id=534) |
-| GreenLumaPro          | [直达链接](https://z.ksmlc.cn/?c=click&id=837) |
-| Steam解锁文件管理器   | [直达链接](https://z.ksmlc.cn/?c=click&id=988) |
-| 菜玩Steam账号共享盒子 | [直达链接](https://z.ksmlc.cn/?c=article&id=8) |
-
 ## 🎯 兴趣爱好
 
 - 旅行 / 音乐 / 游戏 / 编程开发
