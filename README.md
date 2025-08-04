@@ -14,6 +14,7 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 
 ## 💻 技术栈
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSMLC)](https://github.com/ksmlc) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmlc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
