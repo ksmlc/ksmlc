@@ -14,14 +14,11 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 
 ## 💻 技术栈
 
-专注于前端开发与软件应用构建，核心技能包括：
-
-- 前端（HTML/CSS/JavaScript）
-- Python
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmlc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![技术栈](https://ksmlc.cn/images/icon/skillPc.svg)
 
 ## 🔗 个人项目与站点
 
