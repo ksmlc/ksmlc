@@ -19,7 +19,8 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![技术栈](https://ksmlc.cn/images/icon/skillPc.svg)
+![skillPc](https://github.com/user-attachments/assets/41f94e34-6963-44d5-b2a8-b32fccda5b78)
+
 
 ## 🎯 兴趣爱好
 
