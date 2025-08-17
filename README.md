@@ -29,7 +29,7 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 ## 📫 联系我
 
 - GitHub：[github.com/ksmlc](https://github.com/ksmlc)
-- Gitee：[gitee.com/ksmlc](https://gitee.com/ksmlc)
+- Web：[ksmlc.cn](https://ksmlc.cn)
 - 邮箱：2760460838@qq.com
 
 > 不分昼夜 无论近远 | 𝓓𝓪𝔂 𝓪𝓷𝓭 𝓷𝓲𝓰𝓱𝓽, 𝓷𝓮𝓪𝓮 𝓪𝓷𝓭 𝓯𝓪𝓻.
