@@ -2,7 +2,7 @@
 
 ## 👋 关于我（ksmlc.cn）
 
-Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制造工程职业技术学院**，主修软件开发专业。
+Hello, I'm ksmlc, A full-stack developer who loves Python development, writing down my passion in the form of code!
 
 > "你说遇事不决，可问春风，春风不语，既随本心。我若本心坚定，怎会遇事不决？春风也有春风愁，不劳春风为我忧。"
 
@@ -30,6 +30,6 @@ Hi, I'm **KS-MLC**，一名前端与软件开发者，目前就读于**广西制
 
 - GitHub：[github.com/ksmlc](https://github.com/ksmlc)
 - Web：[ksmlc.cn](https://ksmlc.cn)
-- 邮箱：2760460838@qq.com
+- 邮箱：ksmlc@qq.com
 
-> 不分昼夜 无论近远 | 𝓓𝓪𝔂 𝓪𝓷𝓭 𝓷𝓲𝓰𝓱𝓽, 𝓷𝓮𝓪𝓮 𝓪𝓷𝓭 𝓯𝓪𝓻.
+> 你好，世界！ | 𝓗𝓮𝓵𝓵𝓸, 𝓦𝓸𝓻𝓵𝓭!
