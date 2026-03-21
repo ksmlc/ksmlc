@@ -1,32 +1,48 @@
-# KS-MLC | 个人介绍
+# 👋 Hello, I'm ksmlc
+> 一名热爱Python 开发的全栈开发者，以代码形式书写我所热爱！
 
-## 👋 关于我（ksmlc.cn）
+---
 
-Hello, I'm ksmlc, A full-stack developer who loves Python development, writing down my passion in the form of code!
+### 📜 座右铭
+> 若遇事不决，可问春风，春风不语，既随本心。
+> 可我若本心坚定，怎会遇事不决？
+> 春风也有春风愁，不劳春风为我忧。
 
-> "若遇事不决，可问春风，春风不语，既随本心。可我若本心坚定，怎会遇事不决？春风也有春风愁，不劳春风为我忧。"
+---
 
-## 📍 基本信息
+### 📍 基本信息
+- 👨‍💻 身份：大学生 / 软件开发者 / 全栈程序员
+- 📍 所在地：中国・广西柳州
+- 🏷️ 个人标签：`ksmlc` `IT` `Full-Stack` `Python Developer`
 
-- **身份**：大学生 / 软件开发者 / 程序员
-- **所在地**：中国・广西柳州
-- **个人标签**：`ksmlc` `IT` `软件开发者` `程序员`
+---
 
-## 💻 技术栈
+### 💻 技术栈
+![我的技能](https://www.ksmlc.cn/images/icon/skillPc.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/-FullStack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![skillPc](https://www.ksmlc.cn/images/icon/skillPc.svg)
+![GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksmlc&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=0066eb&title_color=ff6b6b&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmlc&layout=compact&bg_color=ffffff&text_color=000000&title_color=0066eb&hide_border=true)
+---
 
+### 🎯 兴趣爱好
+- ✈️ 旅行
+- 🎵 音乐
+- 🎮 游戏
+- 💻 编程开发
 
-## 🎯 兴趣爱好
+---
 
-- 旅行 / 音乐 / 游戏 / 编程开发
+### 📫 联系我
+[![GitHub](https://img.shields.io/badge/GitHub-ksmlc-181717?style=flat-square&logo=github)](https://github.com/ksmlc)
+[![Website](https://img.shields.io/badge/Website-ksmlc.cn-0066eb?style=flat-square&logo=GoogleChrome&logoColor=white)](https://ksmlc.cn)
+[![Email](https://img.shields.io/badge/Email-ksmlc@qq.com-ff6b6b?style=flat-square&logo=gmail&logoColor=white)](mailto:ksmlc@qq.com)
 
-## 📫 联系我
-
-- GitHub：[github.com/ksmlc](https://github.com/ksmlc)
-- Web：[ksmlc.cn](https://ksmlc.cn)
-- 邮箱：ksmlc@qq.com
+---
 
 > 你好，世界！ | 𝓗𝓮𝓵𝓵𝓸, 𝓦𝓸𝓻𝓵𝓭!
