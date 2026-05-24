@@ -18,7 +18,6 @@
 ---
 
 ### 💻 技术栈
-![我的技能](https://www.ksmlc.cn/images/icon/skillPc.svg)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Full-Stack](https://img.shields.io/badge/-FullStack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
@@ -26,8 +25,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ![GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksmlc&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=0066eb&title_color=ff6b6b&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmlc&layout=compact&bg_color=ffffff&text_color=000000&title_color=0066eb&hide_border=true)
+
+![我的技能](https://www.ksmlc.cn/images/icon/skillPc.svg)
 ---
 
 ### 🎯 兴趣爱好
