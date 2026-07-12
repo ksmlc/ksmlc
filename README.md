@@ -23,10 +23,7 @@
 ---
 
 ### 🎯 兴趣爱好
-- ✈️ 旅行
-- 🎵 音乐
-- 🎮 游戏
-- 💻 编程开发
+- ✈️ 旅行、🎵 音乐、🎮 游戏、💻 编程开发
 
 ---
 
@@ -35,6 +32,4 @@
 [![Website](https://img.shields.io/badge/Website-ksmlc.cn-0066eb?style=flat-square&logo=GoogleChrome&logoColor=white)](https://ksmlc.cn)
 [![Email](https://img.shields.io/badge/Email-ksmlc@qq.com-ff6b6b?style=flat-square&logo=gmail&logoColor=white)](mailto:ksmlc@qq.com)
 
----
 
-> 你好，世界！ | 𝓗𝓮𝓵𝓵𝓸, 𝓦𝓸𝓻𝓵𝓭!
