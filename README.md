@@ -4,7 +4,7 @@
 ---
 
 ### 📍 基本信息
-- 👨‍💻 身份：大学生 / 软件开发者 / 全栈程序员
+- 👨‍💻 身份：开发者
 - 📍 所在地：中国・广西柳州
 - 🏷️ 个人标签：`ksmlc` `IT` `Full-Stack` `Python Developer`
 
@@ -16,8 +16,6 @@
 ![Full-Stack](https://img.shields.io/badge/-FullStack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-![GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake-dark.svg" />
