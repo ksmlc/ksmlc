@@ -19,6 +19,12 @@
 
 ![GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=ksmlc&bg_color=ffffff&color=000000&line=0066eb&point=ff6b6b&area=true&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake.svg" />
+</picture>
+
 ![我的技能](https://www.ksmlc.cn/images/icon/skillPc.svg)
 ---
 
