@@ -18,7 +18,7 @@
   <b>> 以代码形式书写我所热爱 <</b>
 </p>
 <p align="center">
-  <img src="https://github-pulse-topaz.vercel.app/u/ksmlc?size=monitor" alt="GitHub Pulse" />
+  <img src="https://github-pulse-topaz.vercel.app/u/ksmlc?size=monitor&scanlines=1&record=1" alt="GitHub Pulse" />
 </p>
 
 ---
