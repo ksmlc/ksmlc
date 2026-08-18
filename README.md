@@ -1,39 +1,51 @@
 # 👋 Hello, I'm ksmlc
-> 一名热爱Python 开发的全栈开发者，以代码形式书写我所热爱！
+
+## 🧑‍💻 About Me
+
+- 👨‍💻 **Developer** · Python / Full-Stack
+- 📍 **Liuzhou, Guangxi, China**
+- 🏷️ `ksmlc` · `IT` · `Dev`
+
+### 💡 Interests
+
+✈️ Travel · 🎵 Music · 🎮 Gaming · 💻 Coding
 
 ---
 
-### 📍 基本信息
-- 👨‍💻 身份：开发者
-- 📍 所在地：中国・广西柳州
-- 🏷️ 个人标签：`ksmlc` `IT` `Full-Stack` `Python Developer`
+## 📊 GitHub Activity
+
+<p align="center">
+  <b>> 以代码形式书写我所热爱 <</b>
+</p>
+<p align="center">
+  <img src="https://github-pulse-topaz.vercel.app/u/ksmlc?size=monitor" alt="GitHub Pulse" />
+</p>
 
 ---
 
-### 💻 技术栈
+## 🛠️ Tech & Connect
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/-FullStack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FullStack-0078D4?style=flat-square&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ksmlc/ksmlc/output/github-snake.svg" />
-</picture>
+<p align="left">
+  <a href="https://github.com/ksmlc">
+    <img src="https://img.shields.io/badge/GitHub-ksmlc-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://ksmlc.cn">
+    <img src="https://img.shields.io/badge/Website-ksmlc.cn-0066eb?style=flat-square&logo=GoogleChrome&logoColor=white" />
+  </a>
+  <a href="mailto:ksmlc@qq.com">
+    <img src="https://img.shields.io/badge/Email-ksmlc%40qq.com-ff6b6b?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![我的技能](https://www.ksmlc.cn/images/icon/skillPc.svg)
 ---
 
-### 🎯 兴趣爱好
-- ✈️ 旅行、🎵 音乐、🎮 游戏、💻 编程开发
-
----
-
-### 📫 联系我
-[![GitHub](https://img.shields.io/badge/GitHub-ksmlc-181717?style=flat-square&logo=github)](https://github.com/ksmlc)
-[![Website](https://img.shields.io/badge/Website-ksmlc.cn-0066eb?style=flat-square&logo=GoogleChrome&logoColor=white)](https://ksmlc.cn)
-[![Email](https://img.shields.io/badge/Email-ksmlc@qq.com-ff6b6b?style=flat-square&logo=gmail&logoColor=white)](mailto:ksmlc@qq.com)
-
-
+<p align="center">
+  <sub>💻 Code what I love · 🚀 Build what I imagine</sub>
+</p>
